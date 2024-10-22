@@ -19,7 +19,7 @@ Para começar a usar o programa, siga os seguintes passos:
 3. Instale as dependências necessárias executando:
 
 ```bash
-npm install inquirer chalk
+npm install 
 ```
 
 ## Uso
